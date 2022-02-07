@@ -10,7 +10,7 @@
 
 <p>Hızlı bir şekilde tekrar için kaynak kodlar.</p> 
 
-<p>Görsel hafızayı harekete geçirmek için handmade hazırlanmış cheat sheet'ler.
+<p>Görsel hafızayı harekete geçirmek için handmade hazırlamış olduğum cheat sheet'ler.
 
 <hr/>
 
