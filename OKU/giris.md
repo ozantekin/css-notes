@@ -8,9 +8,9 @@
 
 <p> Yararlandığım kaynakların linkleri.</p>
 
-<p>Hızlı bir şekilde tekrar için kaynak kodları.</p> 
+<p>Hızlı bir şekilde tekrar için kaynak kodlar.</p> 
 
-<p>Görsel hafızayı harekete geçirm
+<p>Görsel hafızayı harekete geçirmek için handmade hazırlanmış cheat sheet'ler.
 
 <hr/>
 
@@ -21,7 +21,6 @@
 <h3 align="center">Sosyal Medya</h3>
 
 <p>
-
 Twitter : <a href="https://twitter.com/ozantekindev"> Paylaştığım içerikler gelişmenizi hızlandıracaktır. </a>
 <br>
 Medium : <a href="https://medium.com/@ozantekindev">Burası benim crib note’m.</a>
