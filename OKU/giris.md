@@ -23,7 +23,14 @@
 <p>
 
 Twitter : <a href="https://twitter.com/ozantekindev"> Paylaştığım içerikler gelişmenizi hızlandıracaktır. </a>
-
+<br>
+Medium : <a href="https://medium.com/@ozantekindev">Burası benim crib note’m.</a>
+<br>
+Instagram : <a href="https://medium.com/@ozantekindev">Bütün hazırlamış olduğum cheat sheetleri ve reels paylaşımlarını kaçırmayın.</a>
+<br>
+Youtube : <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Ekipmanları tamamlandıktan sonra gelin birlikte kodlayalım.</a>
+<br>
+Tanışalım : <a href="https://superpeer.com/ozantekin">1:1 Görüşmeler için aktif bir şekilde kullanacağım.</a>
 </p>
 
 
