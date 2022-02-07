@@ -21,7 +21,7 @@
 <h3 align="center">Sosyal Medya</h3>
 
 <p>
-Twitter : <a href="https://twitter.com/ozantekindev"> Paylaştığım içerikler gelişmenizi hızlandıracaktır. </a>
+Twitter : <a href="https://twitter.com/ozantekindev"> Paylaştığım içerikler gelişiminizi hızlandıracaktır. </a>
 <br>
 Medium : <a href="https://medium.com/@ozantekindev">Burası benim crib note’m.</a>
 <br>
