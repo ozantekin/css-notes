@@ -1,0 +1,12 @@
+body {
+    font-size: 16px;
+  }
+  .lg-font {
+    font-size: 32px;
+  }
+  p.em {
+    font-size: 1em;
+  }
+  p.rem {
+    font-size: 1rem;
+  }
