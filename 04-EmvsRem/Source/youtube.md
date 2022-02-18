@@ -1,2 +1,0 @@
-- 50 saniye içinde arasındaki farkı öğrenin:
-  - <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw" >İzle</a>
