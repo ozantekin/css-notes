@@ -1,7 +1,7 @@
 <p align="center" >
  <img  src="https://skillicons.dev/icons?i=css" />
 </p>
-<p> CSS üzerine olan eksikliklerimi giderirken yararlandığım kaynaklar, yaptığım araştırmalar ve hazırladığım cheat sheet'lere buradan ulaşabilirsiniz. </p>
+<p align="center"> CSS üzerine olan eksikliklerimi giderirken yararlandığım kaynaklar, yaptığım araştırmalar ve hazırladığım cheat sheet'lere buradan ulaşabilirsiniz. </p>
 
 <hr/>
 
