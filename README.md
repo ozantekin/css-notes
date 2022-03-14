@@ -26,7 +26,7 @@
 
 - <a href="https://medium.com/@ozantekindev/css-flexbox-handmade-cheat-sheetler-t%C3%BCrk%C3%A7e-746342a9807e"> CSS Flexbox Handmade Cheat Sheet’ler (Türkçe) </a>
 - <a href="https://medium.com/@ozantekindev/css-generators-bu-siteler-%C3%A7ok-zaman-kazanman%C4%B1z%C4%B1-sa%C4%9Flayacak-e991d0e81872"> CSS Generators, Bu Siteler zaman Kazanmanızı Sağlayacak </a>
-- <a href="[Oyun Oynayarak HTML & CSS’de Ustalaşın](https://medium.com/@ozantekindev/oyun-oynayarak-html-cssde-ustala%C5%9F%C4%B1n-a4cf06634855)"> Oyun Oynayarak HTML & CSS’de Ustalaşın </a>
+- <a href="https://medium.com/@ozantekindev/oyun-oynayarak-html-cssde-ustala%C5%9F%C4%B1n-a4cf06634855"> Oyun Oynayarak HTML & CSS’de Ustalaşın </a>
 - <a href=""> </a>
 - <a href=""> </a>
 
@@ -40,8 +40,7 @@
 - <a href="https://www.youtube.com/watch?v=lTxSxwwWNH0&ab_channel=OzanTekin"> Em ve Rem Arasındaki Fark </a>
 - <a href="https://www.youtube.com/watch?v=KnzVdK4eDpw&ab_channel=OzanTekin"> CSS ile Div Ortalama (3 Yöntem) </a>
 - <a href="https://www.youtube.com/watch?v=EgjtWY9iZ-Y&ab_channel=OzanTekin"> lienar-gradient nedir (Renk Geçişi) </a>
-- <a href="https://www.youtube.com/watch?v=2BWChl99r_Y&ab_channel=OzanTekin"> </a>
-- <a href=""> CSS transform  </a>
+- <a href="https://www.youtube.com/watch?v=2BWChl99r_Y&ab_channel=OzanTekin"> CSS transform </a>
 - <a href=""> </a>
 - <a href=""> </a>
 
